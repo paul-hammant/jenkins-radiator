@@ -1,0 +1,4 @@
+/* Effective stylesheet produced by snapshot save */
+table.progress-bar { border-collapse: collapse; border: 1px solid rgb(51, 51, 51); height: 14px; width: 100px; clear: none; margin-left: auto; margin-right: auto; display: inline-table; }
+td.progress-bar-done { background-color: rgb(34, 34, 255) ! important; }
+td.progress-bar-left { background-color: rgb(136, 136, 136); }
