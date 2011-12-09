@@ -19,9 +19,9 @@ h2. Take a look.
 
 Screenshot:
 
-!jenkins-radiator/example/radiator.png!
+!jenkins-radiator/raw/master/example/radiator.png!
 
-Or play with a "saved snapshot example":jenkins-radiator/example/index.html
+Or play with a "saved snapshot example":jenkins-radiator/raw/master/example/index.html
 
 (Save made with the "MAFF Firefox plugin":https://addons.mozilla.org/en-US/firefox/addon/mozilla-archive-format/)
 
